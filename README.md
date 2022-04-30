@@ -1,3 +1,23 @@
+# Github Jobs
+
+## Description
+A web app made with ReactJS with login, job search, and job detail functionality.
+
+## Requirement
+* Npm
+* React.js
+
+## How to Use
+1. Clone this repository
+2. Open command prompt in this folder
+3. Type
+```npm install react-scripts --save```
+4. Run
+```npm start```
+
+## Author
+Alifah Rahmatika Basyasya
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
