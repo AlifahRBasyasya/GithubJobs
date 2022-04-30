@@ -28,7 +28,6 @@ const JobDetail = () => {
         JobService.getJobDetail(id).then(
             res => {
                 setDetail(res);
-                console.log(res);
             }
         )
     }

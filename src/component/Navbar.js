@@ -1,7 +1,6 @@
 import { Fragment, useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faRightFromBracket } from "@fortawesome/free-solid-svg-icons";
-import { GoogleLogout } from "react-google-login";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
